@@ -14,3 +14,5 @@ Abaixo está a organização principal dos arquivos que compõem este template:
 ├── header.html                     # Componente de cabeçalho isolado
 ├── templateV1.html                 # Versão padrão com Header e Menu unidos
 └── templateV1SemAlinhar.html       # Segunda versão (unida) com modificações
+└── final.html                      # Verão final com footer. header ea sidebar
+
